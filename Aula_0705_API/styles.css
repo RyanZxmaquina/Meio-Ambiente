@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 127;
+    height: 100px;
+    
+}
+
+main {
+    padding: 127px;
+}
+
+h2 {
+    margin-top: -1px;
+    margin-left: -10px;
+}
+
+.titulo2 {
+
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+.container {
+    padding: -13px;
+    
+}
+
+footer {
+    background: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: -11rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+}
